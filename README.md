@@ -1,7 +1,7 @@
 # customer-churn-analysis
 
 ## Project Overview 
-this project analysis customer churn data to identify factors affecting customer retention.
+This project analysis customer churn data to identify factors affecting customer retention.
 
 ## Tools Used
 - Excel
