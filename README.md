@@ -5,12 +5,16 @@ This project analysis customer churn data to identify factors affecting customer
 
 ## Tools Used
 - Excel
-- SQL
+- pandas
 - Python (Pandas, Matplotlib)
-- Power BI
+- numpy
 
-## Key Insights
-- Churn rate analysis
-- customer segmentation
-- Revenue impact
-- Retention recommendation
+## Analysis perfromed
+- Data cleaning
+- Missing value Analysis
+- Churn percentage calculation
+- Gender-wise churn Analysis
+- Monthly charges Analysis
+
+## Conclusion
+Customers with higher monthly charges showed a higher tendency to churn.
